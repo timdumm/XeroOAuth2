@@ -1,3 +1,5 @@
+(forked from the sample at https://github.com/XeroAPI/, the readme below is from their sample.  The difference in code reflects an upgrade to .NetCore3.1)
+
 # Xero OAuth2 Sample
 
 This is an example dotnet core MVC application making use of Xero sign in, and Xero API access using OAuth2.0.  
